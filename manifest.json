@@ -1,0 +1,15 @@
+{
+  "name": "Team Tasks | Trello",
+  "short_name": "Team Tasks | Trello",
+  "scope": "/",
+  "start_url": "index.html?#homescreen",
+  "display": "standalone",
+  "background_color": "#ECECEC",
+  "description": "List of speakers at NDC London using json placeholder API",
+  "orientation": "portrait",
+  "icons": [{
+    "src": "images/logo1.png",
+    "sizes": "64x64",
+    "type": "image/png"
+  }]
+}
