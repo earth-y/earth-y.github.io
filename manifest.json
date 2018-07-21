@@ -4,12 +4,13 @@
   "scope": "/",
   "start_url": "index.html?#homescreen",
   "display": "standalone",
-  "background_color": "#ECECEC",
+  "background_color": "#0079BF",
   "description": "List of speakers at NDC London using json placeholder API",
+  "theme_color": "#0079BF",
   "orientation": "portrait",
   "icons": [{
-    "src": "images/logo1.png",
-    "sizes": "64x64",
+    "src": "images/logo.png",
+    "sizes": "144x144",
     "type": "image/png"
   }]
 }
