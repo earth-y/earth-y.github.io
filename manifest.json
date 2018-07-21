@@ -1,6 +1,6 @@
 {
-  "name": "Team Tasks | Trello",
-  "short_name": "Team Tasks | Trello",
+  "name": "Architecture Project | Trello",
+  "short_name": "Architecture Project | Trello",
   "scope": "/",
   "start_url": "index.html?#homescreen",
   "display": "standalone",
